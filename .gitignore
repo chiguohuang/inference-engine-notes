@@ -1,8 +1,10 @@
-*.i
-*.ii
-*.gpu
-*.ptx
-*.cubin
-*.fatbin
+# blog 规划与中间产物，不入库
+draft.md
+briefs/
+posts/
+BLOG-STRATEGY.md
+CLAUDE.md
 
-build/
+# 建站预留（策略 Month 1 选型 SSG 后生效）
+public/
+node_modules/
